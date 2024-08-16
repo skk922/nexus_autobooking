@@ -13,7 +13,7 @@ location_id: 5020 # #'Blaine_Nexus': 5020
 location_name: 'Blaine'
 loc_element: US70
 
-### Test Location - Champlain NEXUS and FAST, NYC 
+### Test Location - Champlain NEXUS and FAST, NYC
 #location_id: 5021
 #location_name: 'Champlain'
 #loc_element: US40
